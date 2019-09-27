@@ -1,5 +1,5 @@
 Prantik Howlader
-<img src="prantik1.png" alt="hi" class="inline"/>
+!<img src="prantik1.png" alt="hi" class="inline"/>
 
 
 You can use the [editor on GitHub](https://github.com/prantikhowlader/prantikhowlader.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
