@@ -5,6 +5,10 @@
 I am currently a graduate student at Department of Computer Science in Stony Brook Univeristy. From fall 2018 I'm working in the [Computer Vision Lab](https://www3.cs.stonybrook.edu/~cvl/) under the supervision of [Prof. Dimitris Samaras](https://www3.cs.stonybrook.edu/~samaras/), [Prof. Minh Hoai](https://www3.cs.stonybrook.edu/~minhhoai/) and [Prof. Joel Saltz](https://bmi.stonybrookmedicine.edu/people/joel_saltz).
 
 
+Prior to this, I received my master degree from National Institute of Technology, Calicut, India in 2016 advised by [Prof. Sudeep K S](http://people.cse.nitc.ac.in/sudeep/).
+
+**Research Interest:** I work on research problems in Computer Vision and Machine Learning. I am especially interested in the field of using Unsupervised techniques for performing object detection and Fine Grained Classification.
+
 You can use the [editor on GitHub](https://github.com/prantikhowlader/prantikhowlader.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
