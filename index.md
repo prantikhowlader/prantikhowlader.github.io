@@ -14,8 +14,8 @@ Prior to this, I received my master degree from National Institute of Technology
 [Resume](https://github.com/prantikhowlader/prantikhowlader.github.io/raw/master/prantik_resume.pdf)
 
 ## Brief Bio
- Email : prantik[dot]howlader[at]stonybrook.edu
- Room 138, New Computer Science Building, Stony Brook University, Stony Brook, NY 11794-2424
+ - Email : prantik[dot]howlader[at]stonybrook.edu
+ - Room 138, New Computer Science Building, Stony Brook University, Stony Brook, NY 11794-2424
  
  
 
