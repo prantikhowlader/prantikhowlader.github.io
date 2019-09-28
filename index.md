@@ -11,7 +11,7 @@ Prior to this, I received my master degree from National Institute of Technology
 
 **Industry Experience:** I have worked as Senior Software Developer in Cisco for 2 years and prior to that I have almost two years experience in Wipro Technologies as a Project Engineer.
 
-**[Resume(2019.08)](https://github.com/prantikhowlader/prantikhowlader.github.io/raw/master/prantik_resume.pdf)**
+### **[Resume(2019.08)](https://github.com/prantikhowlader/prantikhowlader.github.io/raw/master/prantik_resume.pdf)**
 
 ## Contact
  - Email : prantik[dot]howlader[at]stonybrook.edu
