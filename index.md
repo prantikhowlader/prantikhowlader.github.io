@@ -19,7 +19,8 @@ Prior to this, I received my master degree from National Institute of Technology
  
 ## Publications
 - Aditya Chattopadhyay<sup>1</sup>, Anirban Sarkar<sup>1</sup>, **Prantik Howlader<sup>1</sup>** and Vineeth N. Balasubramanian.“Grad-CAM++: Generalized Gradient-based Visual Explanations for Deep Convolutional Networks,” IEEE Winter Conference on Applications of Computer Vision (WACV2018)<br />(<sup>1</sup> All authors have contributed equally)
-- 
+- **Prantik Howlader**, Kuntal Kumar Pal, Alfredo Cuzzocrea, and S. D. Madhu Kumar. “Predicting Facebook-Users’ Personality based on Status and Linguistic Features via Flexible Regression Analysis Techniques,” In Proceedings of ACM SAC Conference (SAC18)
+- **Prantik Howlader** and K.S. Sudeep.“Degree Centrality, Eigen vector Centrality and relation between them in Twitter,” IEEE International Conference on Recent Trends in Electronics, Information & Communication Technology 2016
 
 You can use the [editor on GitHub](https://github.com/prantikhowlader/prantikhowlader.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
