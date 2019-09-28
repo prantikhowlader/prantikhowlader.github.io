@@ -2,7 +2,7 @@
 <!--!<img src="prantik1.png" alt="hi" class="inline"/>-->
 <img src="prantik1.png" class="inline" align="left"/>
 
-I am currently a graduate student at Department of Computer Science in Stony Brook Univeristy. From fall 2018 I'm working in the [Computer Vision Lab](https://www3.cs.stonybrook.edu/~cvl/) under the supervision of [Prof. Dimitris Samaras](https://www3.cs.stonybrook.edu/~samaras/), [Prof. Minh Hoai](https://www3.cs.stonybrook.edu/~minhhoai/) and [Prof. Joel Saltz](https://bmi.stonybrookmedicine.edu/people/joel_saltz).
+I am currently a PhD candidate at Department of Computer Science in Stony Brook Univeristy. From fall 2018 I'm working in the [Computer Vision Lab](https://www3.cs.stonybrook.edu/~cvl/) under the supervision of [Prof. Dimitris Samaras](https://www3.cs.stonybrook.edu/~samaras/), [Prof. Minh Hoai](https://www3.cs.stonybrook.edu/~minhhoai/) and [Prof. Joel Saltz](https://bmi.stonybrookmedicine.edu/people/joel_saltz).
 
 
 Prior to this, I received my master degree from National Institute of Technology, Calicut, India in 2016 advised by [Prof. Sudeep K S](http://people.cse.nitc.ac.in/sudeep/).
