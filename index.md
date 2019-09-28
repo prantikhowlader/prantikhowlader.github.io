@@ -2,7 +2,7 @@
 <!--!<img src="prantik1.png" alt="hi" class="inline"/>-->
 <img src="prantik1.png" class="inline" align="left"/>
 
-I am currently a graduate student at Department of Computer Science in Stony Brook Univeristy. From fall 2018 I'm working in the [Computer Vision Lab](https://www3.cs.stonybrook.edu/~cvl/) under the supervision of Prof. Dimitris Samaras, Prof. Minh Hoai and Prof. Joel Saltz.
+I am currently a graduate student at Department of Computer Science in Stony Brook Univeristy. From fall 2018 I'm working in the [Computer Vision Lab](https://www3.cs.stonybrook.edu/~cvl/) under the supervision of [Prof. Dimitris Samaras](https://www3.cs.stonybrook.edu/~samaras/), [Prof. Minh Hoai](https://www3.cs.stonybrook.edu/~minhhoai/) and [Prof. Joel Saltz](https://bmi.stonybrookmedicine.edu/people/joel_saltz).
 
 
 You can use the [editor on GitHub](https://github.com/prantikhowlader/prantikhowlader.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
