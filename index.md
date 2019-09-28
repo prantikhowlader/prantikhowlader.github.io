@@ -11,7 +11,7 @@ Prior to this, I received my master degree from National Institute of Technology
 
 **Industry Experience:** I have two years experience as a senior software developer in Cisco and prior to that I have in Wipro Technologies as a Project Engineer.
 
-###[Resume](https://github.com/prantikhowlader/prantikhowlader.github.io/raw/master/prantik_resume.pdf)
+[Resume](https://github.com/prantikhowlader/prantikhowlader.github.io/raw/master/prantik_resume.pdf)
 
 You can use the [editor on GitHub](https://github.com/prantikhowlader/prantikhowlader.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
