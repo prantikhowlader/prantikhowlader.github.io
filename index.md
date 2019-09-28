@@ -18,7 +18,7 @@ Prior to this, I received my master degree from National Institute of Technology
  - Room 138, New Computer Science Building, Stony Brook University, Stony Brook, NY 11794-2424
  
 ## Publications
-- Aditya Chattopadhyay<sup>1</sup>, Anirban Sarkar<sup>1</sup>, **Prantik Howlader<sup>1</sup>** and Vineeth N. Balasubramanian.“Grad-CAM++: Generalized Gradient-based Visual Explanations for Deep Convolutional Networks,” IEEE Winter Conference on Applications of Computer Vision (WACV2018)(<sup>1</sup> All authors have contributed equally)
+- Aditya Chattopadhyay<sup>1</sup>, Anirban Sarkar<sup>1</sup>, **Prantik Howlader<sup>1</sup>** and Vineeth N. Balasubramanian.“Grad-CAM++: Generalized Gradient-based Visual Explanations for Deep Convolutional Networks,” IEEE Winter Conference on Applications of Computer Vision (WACV2018)<br />(<sup>1</sup> All authors have contributed equally)
 - 
 
 You can use the [editor on GitHub](https://github.com/prantikhowlader/prantikhowlader.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
