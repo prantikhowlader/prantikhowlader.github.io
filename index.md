@@ -9,6 +9,10 @@ Prior to this, I received my master degree from National Institute of Technology
 
 **Research Interest:** I work on research problems in Computer Vision and Machine Learning. I am especially interested in the field of using Unsupervised techniques for performing object detection and Fine Grained Classification.
 
+**Industry Experience:** I have two years experience as a senior software developer in Cisco and prior to that I have in Wipro Technologies as a Project Engineer.
+
+###[Resume]()
+
 You can use the [editor on GitHub](https://github.com/prantikhowlader/prantikhowlader.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
