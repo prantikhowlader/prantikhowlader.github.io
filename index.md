@@ -9,15 +9,17 @@ Prior to this, I received my master degree from National Institute of Technology
 
 **Research Interest:** I work on research problems in Computer Vision and Machine Learning. I am especially interested in the field of using Unsupervised techniques for performing object detection and Fine Grained Classification.
 
-**Industry Experience:** I have two years experience as a senior software developer in Cisco and prior to that I have in Wipro Technologies as a Project Engineer.
+**Industry Experience:** I have two years experience as a Senior Software Developer in Cisco and prior to that I have in Wipro Technologies as a Project Engineer.
 
-[Resume](https://github.com/prantikhowlader/prantikhowlader.github.io/raw/master/prantik_resume.pdf)
+**[Resume(2019.08)](https://github.com/prantikhowlader/prantikhowlader.github.io/raw/master/prantik_resume.pdf)**
 
 ## Contact
  - Email : prantik[dot]howlader[at]stonybrook.edu
  - Room 138, New Computer Science Building, Stony Brook University, Stony Brook, NY 11794-2424
  
- 
+## Publications
+- Aditya Chattopadhyay<sup>1</sup>, Anirban Sarkar<sup>1</sup>, **Prantik Howlader<sup>1</sup>** and Vineeth N. Balasubramanian.“Grad-CAM++: Generalized Gradient-based Visual Explanations for Deep Convolutional Networks,” IEEE Winter Conference on Applications of Computer Vision (WACV2018)(<sup>1</sup> All authors have contributed equally)
+- 
 
 You can use the [editor on GitHub](https://github.com/prantikhowlader/prantikhowlader.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
