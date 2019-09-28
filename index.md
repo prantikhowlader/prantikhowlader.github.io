@@ -1,3 +1,4 @@
+> If we knew what it was we were doing, it would not be called research, would it?      
 ## Brief Bio
 <!--!<img src="prantik1.png" alt="hi" class="inline"/>-->
 <img src="prantik1.png" class="inline" align="left"/>
