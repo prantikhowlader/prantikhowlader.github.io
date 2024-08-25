@@ -5,7 +5,7 @@
 <!--!<img src="prantik1.png" alt="hi" class="inline"/>-->
 <img src="prantik1.png" class="inline" align="left"/>
 
-I am currently a PhD candidate at Department of Computer Science in Stony Brook Univeristy. From fall 2018 I'm working in the [Computer Vision Lab](https://www3.cs.stonybrook.edu/~cvl/) under the supervision of [Prof. Dimitris Samaras](https://www3.cs.stonybrook.edu/~samaras/), [Prof. Minh Hoai](https://www3.cs.stonybrook.edu/~minhhoai/) and [Prof. Joel Saltz](https://bmi.stonybrookmedicine.edu/people/joel_saltz).
+I am currently a PhD candidate at Department of Computer Science in Stony Brook Univeristy. From fall 2018 I'm working in the [Computer Vision Lab](https://www3.cs.stonybrook.edu/~cvl/) under the supervision of [Prof. Dimitris Samaras](https://www3.cs.stonybrook.edu/~samaras/).
 
 
 Prior to this, I received my master degree from National Institute of Technology, Calicut, India in 2016 advised by [Prof. Sudeep K S](http://people.cse.nitc.ac.in/sudeep/).
@@ -17,10 +17,13 @@ Prior to this, I received my master degree from National Institute of Technology
 ### **[Resume(2019.08)](https://github.com/prantikhowlader/prantikhowlader.github.io/raw/master/prantik_resume.pdf)**
 
 ## Contact
- - Email : prantik[dot]howlader[at]stonybrook.edu
+ - Email : phowlader[at]cs.stonybrook.edu
  - Room 138, New Computer Science Building, Stony Brook University, Stony Brook, NY 11794-2424
  
 ## Publications
+- 
+- **Prantik Howlader**, Vu Nguyen, Le Hou, Rajarshi Gupta, Dimitris Samaras and Joel Saltz. “Few Shot Hematopoietic Cell Classification”. In  Medical Imaging with Deep Learning (MIDL). 2023
+-  Ayush Kumar, **Prantik Howlader**, Rafael Garcia, Daniel Weiskopf and Klaus Mueller. “Challenges in Interpretability of Neural Networks for Eye Movement Data”. In ACM Symposium on Eye Tracking Research and Applications (ETRA). 2020.
 - Aditya Chattopadhyay<sup>1</sup>, Anirban Sarkar<sup>1</sup>, **Prantik Howlader<sup>1</sup>** and Vineeth N. Balasubramanian.“Grad-CAM++: Generalized Gradient-based Visual Explanations for Deep Convolutional Networks,” IEEE Winter Conference on Applications of Computer Vision (WACV2018) ([Paper](https://github.com/prantikhowlader/prantikhowlader.github.io/raw/master/gradcam%2B%2B.pdf))
 <br />(<sup>1</sup> All authors have contributed equally)
 - **Prantik Howlader**, Kuntal Kumar Pal, Alfredo Cuzzocrea, and S. D. Madhu Kumar. “Predicting Facebook-Users’ Personality based on Status and Linguistic Features via Flexible Regression Analysis Techniques,” In Proceedings of ACM SAC Conference (SAC18) ([Paper](https://github.com/prantikhowlader/prantikhowlader.github.io/raw/master/eigen.pdf))
