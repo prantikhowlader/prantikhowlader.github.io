@@ -9,7 +9,9 @@ I am currently a PhD candidate at Department of Computer Science in Stony Brook 
 
 In Summer and Fall 2025, I interned as an **Applied Scientist in Amazon**. Where I applied reinforcement learning and Chain-of-Thought to train a multimodal agent (MLLM) to use a set of tools (foundational models) to find visual defects in customer uploaded images. We improved the classification performance by **6.1%**. 
 
-
+```diff
++ Your green text here
+```
 
 
 Prior to this, I received my master degree from National Institute of Technology, Calicut, India in 2016 advised by [Prof. Sudeep K S](http://people.cse.nitc.ac.in/sudeep/).
