@@ -26,7 +26,7 @@ Prior to this, I received my master degree from National Institute of Technology
  
 ## Publications
 - ***Prantik Howlader***, Hoang Nguyen-Canh, Srijan Das, Jingyi Xu, Hieu Le and Dimitris Samaras. “CORA: Consistency-Guided Semi-Supervised Framework for
-Reasoning Segmentation”. IEEE Winter Conference on Applications of Computer Vision (**WACV 2026**)  ([Paper](https://github.com/prantikhowlader/prantikhowlader.github.io/raw/master/beyond_eccv.pdf))
+Reasoning Segmentation”. IEEE Winter Conference on Applications of Computer Vision (**WACV 2026**)  ([Paper](https://github.com/prantikhowlader/prantikhowlader.github.io/raw/master/WACV_final_arxiv.pdf))
 - ***Prantik Howlader***, Srijan Das, Hieu Le and Dimitris Samaras. “Beyond Pixels: Semi-Supervised Semantic Segmentation with a Multi-scale Patch-based Multi-Label Classifier”. In European Conference on Computer Vision (**ECCV 2024**) ([Paper](https://github.com/prantikhowlader/prantikhowlader.github.io/raw/master/beyond_eccv.pdf))
 - ***Prantik Howlader***, Hieu Le and Dimitris Samaras. “Weighting Pseudo-Labels via High-Activation Feature Index Similarity and Object Detection for Semi-Supervised Segmentation”. In European Conference on Computer Vision (**ECCV 2024**) ([Paper](https://github.com/prantikhowlader/prantikhowlader.github.io/raw/master/weighing_eccv.pdf))
 - ***Prantik Howlader***, Vu Nguyen, Le Hou, Rajarshi Gupta, Dimitris Samaras and Joel Saltz. “Few Shot Hematopoietic Cell Classification”. In  Medical Imaging with Deep Learning (**MIDL 2023**) ([Paper](https://github.com/prantikhowlader/prantikhowlader.github.io/raw/master/midl.pdf))
