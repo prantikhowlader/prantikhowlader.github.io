@@ -18,13 +18,15 @@ Prior to this, I received my master degree from National Institute of Technology
 
 **Industry Experience:** I have worked as Senior Software Developer in $${\color{green}Cisco}$$ for 2 years and prior to that I have almost two years experience in $${\color{green}Wipro\ Technologies}$$ as a Project Engineer.
 
-### **[Resume(2019.08)](https://github.com/prantikhowlader/prantikhowlader.github.io/raw/master/prantik_resume.pdf)**
+### **[Resume(2025.11)](https://github.com/prantikhowlader/prantikhowlader.github.io/raw/master/CV_Prantik_Howlader_2025.pdf)**
 
 ## Contact
  - Email : phowlader[at]cs.stonybrook.edu
  - Room 138, New Computer Science Building, Stony Brook University, Stony Brook, NY 11794-2424
  
 ## Publications
+- ***Prantik Howlader***, Hoang Nguyen-Canh, Srijan Das, Jingyi Xu, Hieu Le and Dimitris Samaras. “CORA: Consistency-Guided Semi-Supervised Framework for
+Reasoning Segmentation”. IEEE Winter Conference on Applications of Computer Vision (**WACV 2026**)  ([Paper](https://github.com/prantikhowlader/prantikhowlader.github.io/raw/master/beyond_eccv.pdf))
 - ***Prantik Howlader***, Srijan Das, Hieu Le and Dimitris Samaras. “Beyond Pixels: Semi-Supervised Semantic Segmentation with a Multi-scale Patch-based Multi-Label Classifier”. In European Conference on Computer Vision (**ECCV 2024**) ([Paper](https://github.com/prantikhowlader/prantikhowlader.github.io/raw/master/beyond_eccv.pdf))
 - ***Prantik Howlader***, Hieu Le and Dimitris Samaras. “Weighting Pseudo-Labels via High-Activation Feature Index Similarity and Object Detection for Semi-Supervised Segmentation”. In European Conference on Computer Vision (**ECCV 2024**) ([Paper](https://github.com/prantikhowlader/prantikhowlader.github.io/raw/master/weighing_eccv.pdf))
 - ***Prantik Howlader***, Vu Nguyen, Le Hou, Rajarshi Gupta, Dimitris Samaras and Joel Saltz. “Few Shot Hematopoietic Cell Classification”. In  Medical Imaging with Deep Learning (**MIDL 2023**) ([Paper](https://github.com/prantikhowlader/prantikhowlader.github.io/raw/master/midl.pdf))
