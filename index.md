@@ -14,7 +14,7 @@ Prior to this, I received a $${\color{green}Research\ grant\ from\ Zebra\ Techno
 
 Prior to this, I received my master degree from National Institute of Technology, Calicut, India in 2016 advised by [Prof. Sudeep K S](http://people.cse.nitc.ac.in/sudeep/).
 
-**Research Interest:** I work on research problems in Computer Vision and Machine Learning. I am especially interested in the field of using Unsupervised techniques for performing object detection and Fine Grained Classification.
+**Research Interest:** $${\color{green}My\ research\ interests\ span\ agent\ AI\ with\ reinforcement\ learning\ and\ multimodal\ reasoning,\ vision\ language\ models\ for\ segmentation\ using\ images\  and\ text,\ semi\ supervised\ segmentation\ with\ limited\ labeled\ data,\ and\ applied\ machine\ learning\ and\ computer\ vision\ for\ real\ world\ systems.}
 
 **Industry Experience:** I have worked as Senior Software Developer in Cisco for 2 years and prior to that I have almost two years experience in Wipro Technologies as a Project Engineer.
 
