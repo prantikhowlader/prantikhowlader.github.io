@@ -16,7 +16,7 @@ Prior to this, I received my master degree from National Institute of Technology
 
 **Research Interest:** *My research interests span agent AI with reinforcement learning and multimodal reasoning, vision language models for segmentation using images and text, semi-supervised segmentation with limited labeled data, and applied machine learning and computer vision for real world systems.*
 
-**Industry Experience:** I have worked as Senior Software Developer in Cisco for 2 years and prior to that I have almost two years experience in Wipro Technologies as a Project Engineer.
+**Industry Experience:** I have worked as Senior Software Developer in $${\color{green}Cisco}$$ for 2 years and prior to that I have almost two years experience in $${\color{green}Wipro\ Technologies}$$ as a Project Engineer.
 
 ### **[Resume(2019.08)](https://github.com/prantikhowlader/prantikhowlader.github.io/raw/master/prantik_resume.pdf)**
 
