@@ -9,7 +9,7 @@ I am currently a PhD candidate at Department of Computer Science in Stony Brook 
 
 In Summer and Fall 2025, I interned as an $${\color{green}Applied\ Scientist\ in\ Amazon}$$. Where I applied **reinforcement learning and Chain-of-Thought** to train a multimodal agent (MLLM) to use a set of tools (foundational models) to find visual defects in customer uploaded images. We improved the **visual defect classification performance by 6.1%**.
 
-Prior to this, I received a $${\color{green}research\ grant\ from\ Zebra\ Technologies\ (2022\ to\ 2024)$$, where I worked on deploying large Transformer based models in memory and computation constrained grocery self check out centers. The focus was on object detection from partial object views. **This deployment reduced the number of fake transactions by 8.9 percent.**
+Prior to this, I received a $${\color{green}Research\ grant\ from\ Zebra\ Technologies\ (2022\ to\ 2024)}$$, where I worked on deploying large Transformer based models in memory and computation constrained grocery self check out centers. The focus was on object detection from partial object views. **This deployment reduced the number of fake transactions by 8.9 percent.**
 
 
 Prior to this, I received my master degree from National Institute of Technology, Calicut, India in 2016 advised by [Prof. Sudeep K S](http://people.cse.nitc.ac.in/sudeep/).
